@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "coffee",
+    "serving": "1 slice",
+    "protein": "10%",
+    "carbohydrates": "70%",
+    "fat": "20%",
+    "calories": "76 kcal"
+  },
+  {
+    "id": 2,
+    "title": "toast",
+    "serving": "1 slice",
+    "protein": "80%",
+    "carbohydrates": "0%",
+    "fat": "20%",
+    "calories": "190 kcal"
+  },
+  {
+    "id": 3,
+    "title": " egg",
+    "serving": "one egg",
+    "protein": "57%",
+    "carbohydrates": "0%",
+    "fat": "42%",
+    "calories": "280 kcal"
+  }
+]
